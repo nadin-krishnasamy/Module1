@@ -23,3 +23,4 @@ else:
 <img width="508" height="359" alt="image" src="https://github.com/user-attachments/assets/1a76f232-6d2d-494d-907d-b7c456555438" />
 
 ## Result
+Thus the Python program to evaluate the arithemetic expressions has been executed sucessfully.
